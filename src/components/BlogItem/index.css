@@ -1,0 +1,13 @@
+.eachItem-des {
+  width: 100%;
+  padding: 10px;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.des {
+  text-align: left;
+}
